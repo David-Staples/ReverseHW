@@ -1,0 +1,20 @@
+Homework Week One  Day 3
+
+Research
+1.  What are Listeners?
+Is a method that is call to do something most often used for buttons in android
+2. Define the difference in Runtime and Compile Time.
+Compile time is the instance of turing a program into an exicutable.  Run time is the instance where executables are being run.
+3. What is reflection in JAVA?
+Is an API that modifies behavior of methods, classes, snd interfaces during runtime
+4.  How does gradle work behind the scene.
+Gradle builds packages into Domain Specific Languages and manage fie transfers and storage.
+5. Explain each of the following view dimension measurement types :
+sp, dp, px, pt, in, mm
+These determae pixle size on display.
+sp - Is stander css pixel size usualy taken from webpages sharp image
+dp- Densit Independent pixel adjust pixel size to display
+px -  pixels are 1/96 of an inch of display
+pt - pixels are 1/72 of an inch of display
+in -  - stand for inches and has set pixels per inch in display
+mm - Stands for milimeters and pixels size in pixels per milimeter on display
